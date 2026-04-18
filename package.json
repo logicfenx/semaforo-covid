@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/semaforo-covid",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a semaforo-covid",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/semaforo-covid.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.icu/semaforo-covid/"
+    },
+    "homepage": "https://www.stockbitcoin.icu/semaforo-covid/"
+}
